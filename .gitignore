@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+output/
+cache/
+assets/fonts/*.ttf
+*.zip
+.DS_Store
+Thumbs.db
+venv/
+.venv/
